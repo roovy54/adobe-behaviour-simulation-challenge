@@ -60,6 +60,7 @@ Predicting tweet likes accurately is essential for understanding user engagement
 
     -  **Analogical Retrievers**
     -  **Experiments**: Cross Attention, jina embed, merge embeds, ResNet+BERT, RoBERTa, ViT+RoBERTa implementations.
+    -  **XG Boost Ensemble**: Implemented XG Boost classifier, regressor ensembled with another regressor layer to create final meta model.
 
 -  **Task 2**:
 
