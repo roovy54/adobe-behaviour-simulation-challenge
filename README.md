@@ -20,11 +20,6 @@ Predicting tweet likes accurately is essential for understanding user engagement
 
     This folder contains all the necessary files and sub-folders related to data preprocessing.
 
-    - **Data**: It is subdivided into:
-
-        - **Test_data**: Contains testing data files.
-        - **Train_data**: Contains training data files.
-
     - **EDA (Exploratory Data Analysis)**: This section is divided into two Jupyter notebooks:
 
         - **EDA_Stage1.ipynb**: The first stage of exploratory data analysis.
