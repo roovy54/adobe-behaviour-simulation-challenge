@@ -9,7 +9,7 @@ For contextual visual similarity, a sophisticated approach is adopted, leveragin
 the embeddings that were generated through the languagebind. This method goes beyond conventional methods, providing nuanced 
 representations that capture the semantic essence of visual content associated with tweets.
 
-# Analogical Prompting
+## Analogical Prompting
 A distinctive feature of this implementation lies in its utilization of a `analogical` prompting technique. 
 This technique, coupled with the wealth of tweet data collected, serves as a catalyst for generating new tweets. 
 The generation process is powered by LLaVa-7b, a state-of-the-art language model. This integrated methodology not only
