@@ -9,5 +9,5 @@ To prepare the dataset for model training, follow these streamlined steps in our
     data analysis ensures that the dataset is meticulously curated and ready for seamless integration into our model training process.
 
 ## Likes prediction
-The data is then loaded into the BM25 model, which, based on a certain set of parameters, decides which XGBoost model to be called.
-According to the decision, the respective model is invoked and prediction is generated.
+The data is then loaded into the BM25 model, which, based on a certain set of parameters, decides which XGBoost model to be called. 
+We employ the binning technique to decide the XGBoost model to be called. According to the decision, the respective model is invoked and prediction is generated.
